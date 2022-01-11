@@ -21,7 +21,7 @@ Tu tarea consiste en añadir una nueva funcionalidad al sistema para que podamos
 - Hemos firmado un nuevo acuerdo para vender items "conjured", sin embargo necesitamos un cambio en el sistema:
 
 - Los items "conjured" disminuyen de calidad el doble de rápido que el resto.
-- Por supuesto puedes hacer cualquier cambio al método updateQuality si lo consideras necesario mientras que todo siga funcionando claro esta!. 
+- Por supuesto puedes hacer cualquier cambio al método updateQuality si lo consideras necesario mientras que todo siga funcionando claro esta! 
 
 ### Sin embargo hay dos cosas que no puedes hacer:
 
